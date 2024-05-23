@@ -17,7 +17,7 @@ If you have any diffculties do a support ticket at ![image](https://github.com/T
 # Script
 
 ```lua
- loadstring(game:HttpGet("", true))()
+ loadstring(game:HttpGet("https://github.com/Tropxzz/GEARZ-/blob/main/checker.lua?raw=true", true))()
 ```
 
 (insert banner here)
