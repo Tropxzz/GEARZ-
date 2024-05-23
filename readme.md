@@ -3,7 +3,7 @@ Welcome to GEARZ! It's a Script that packs 10+ games all in one. Get ready for e
 
 # Why GEARZ? ⁉
 GEARZ is a really powerful script that has a **TON** of features and games like Break in 2, blox fruits (possibly) and WAAAAAAAAAAAAAAAAAY More.
-GEARZ also has a decent ui because I am using [Fluent](https://github.com/dawid-scripts/Fluent/blob/master/Example.lua) and this script supports every executor (idk about skiddy incon)
+GEARZ also has a decent ui because I am using [Apple Library](https://github.com/GhostDuckyy/UI-Libraries/tree/main/Apple%20Library) and this script supports every executor (idk about skiddy incon)
 
 # Key system 😴
 I get it, I get it you hate key systems everyoooooooone hates key systems im sorry for making you suffer but here are your beautiful key system steps
