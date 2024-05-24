@@ -17,6 +17,7 @@ If you have any diffculties do a support ticket at ![image](https://github.com/T
 
 # Acknowledgements
 Scriptix - a awesome fly script
+Skeleton esp by Syntax Err0r on V3rm
 
 # Script
 
