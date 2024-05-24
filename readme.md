@@ -16,7 +16,7 @@ Execute **GEARZ** and wait for it to load, when it loads enter the key in the te
 If you have any diffculties do a support ticket at ![image](https://github.com/Tropxzz/GEARZ-/assets/130433432/5e2007f6-78fb-4b47-9e47-88a9336612aa)
 
 # Acknowledgements
-coolcapidog - a awesome fly script
+Scriptix - a awesome fly script
 
 # Script
 
