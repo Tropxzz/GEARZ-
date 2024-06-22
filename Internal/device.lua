@@ -4,7 +4,7 @@
 -- by mr.suno on discord
 
 local endpoint = "https://httpbin.org/user-agent"
-local api = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/hello-n-bye/starry/main/src/api.lua", true))()
+local api = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Tropxzz/GEARZ-/main/Internal/api.lua", true))()
 
 local http = game:GetService("HttpService")
 
