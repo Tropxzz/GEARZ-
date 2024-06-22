@@ -24,4 +24,9 @@ Scriptix - a awesome fly script tutorial
  loadstring(game:HttpGet("https://github.com/Tropxzz/GEARZ-/blob/main/checker.lua?raw=true", true))()
 ```
 
+# GEARZ Internal 
+```lua
+https://github.com/Tropxzz/GEARZ-/blob/main/Internal/main.lua
+```
+
 ![standard](https://github.com/Tropxzz/GEARZ-/assets/130433432/77a4c7ff-427a-4fd0-ad8b-586fc5277e07)
