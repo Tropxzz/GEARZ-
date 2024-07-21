@@ -1,6 +1,6 @@
 function rainbowify(asdasd)
     while wait() do
-	script.Parent.TextColor3 = Color3.new(1,0,0)
+	asdasd.TextColor3 = Color3.new(1,0,0)
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
 		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r,asdasd.TextColor3.g+(17/255),asdasd.TextColor3.b)
