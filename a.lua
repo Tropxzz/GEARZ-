@@ -3,27 +3,27 @@ function rainbowify(asdasd)
 	script.Parent.TextColor3 = Color3.new(1,0,0)
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
-		asdasd.TextColor3 = Color3.new(script.Parent.TextColor3.r,script.Parent.TextColor3.g+(17/255),script.Parent.TextColor3.b)
+		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r,asdasd.TextColor3.g+(17/255),asdasd.TextColor3.b)
 	end
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
-		asdasd.TextColor3 = Color3.new(script.Parent.TextColor3.r-(17/255),script.Parent.TextColor3.g,script.Parent.TextColor3.b)
+		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r-(17/255),asdasd.TextColor3.g,asdasd.TextColor3.b)
 	end
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
-		asdasd.TextColor3 = Color3.new(script.Parent.TextColor3.r,script.Parent.TextColor3.g,script.Parent.TextColor3.b+(17/255))
+		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r,asdasd.TextColor3.g,asdasd.TextColor3.b+(17/255))
 	end
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
-		asdasd.TextColor3 = Color3.new(script.Parent.TextColor3.r,script.Parent.TextColor3.g-(17/255),script.Parent.TextColor3.b)
+		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r,asdasd.TextColor3.g-(17/255),asdasd.TextColor3.b)
 	end
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
-		asdasd.TextColor3 = Color3.new(script.Parent.TextColor3.r+(17/255),script.Parent.TextColor3.g,script.Parent.TextColor3.b)
+		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r+(17/255),asdasd.TextColor3.g,asdasd.TextColor3.b)
 	end
 	for i=1,15 do
 		game:GetService("RunService").RenderStepped:wait()
-		asdasd.TextColor3 = Color3.new(script.Parent.TextColor3.r,script.Parent.TextColor3.g,script.Parent.TextColor3.b-(17/255))
+		asdasd.TextColor3 = Color3.new(asdasd.TextColor3.r,asdasd.TextColor3.g,asdasd.TextColor3.b-(17/255))
 	end
 end
 end
