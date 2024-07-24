@@ -18,6 +18,7 @@ If you have any diffculties do a support ticket at ![image](https://github.com/T
 # Acknowledgements
 Scriptix - a awesome fly script tutorial
 
+
 # Script
 
 ```lua
@@ -29,5 +30,5 @@ Scriptix - a awesome fly script tutorial
  loadstring(game:HttpGet("https://github.com/Tropxzz/GEARZ-/blob/main/Internal/main.lua?raw=true", true))()
 
 ```
-
+![image](https://github.com/user-attachments/assets/2278ab6b-25ad-4952-bbbe-39d3eeb988a9)
 ![standard](https://github.com/Tropxzz/GEARZ-/assets/130433432/77a4c7ff-427a-4fd0-ad8b-586fc5277e07)
