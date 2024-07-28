@@ -1,6 +1,6 @@
 local placeid = game.PlaceId 
 
-if placeid == 13864667823  then 
+if placeid == 13864661000  then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/GEARZ-/main/Games/Breakin2.lua",true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tropxzz/GEARZ-/main/a.lua",true))()
 elseif placeid == 16389398622 then
